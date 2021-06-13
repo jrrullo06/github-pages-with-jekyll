@@ -1,5 +1,10 @@
 ---
-title: "Welcome to my blog"
+title: "Jordan's Website"
 ---
 
-I'm glad you are here. I plan to talk about ...
+My name is Jordan. 
+
+Here is a picture of me:
+
+
+My social media 
